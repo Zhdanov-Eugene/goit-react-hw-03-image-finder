@@ -30,6 +30,8 @@ npx mrm@2 lint-staged
 
 npm install node-sass --save
 
+npm i react-loader-spinner
+
 npm install modern-normalize
 
  @import 'node_modules/modern-normalize/modern-normalize.css'; или import '../node_modules/modern-normalize/modern-normalize.css'; или import 'modern-normalize/modern-normalize.css'; 0 0 юбь!!!!!!!
